@@ -1,5 +1,0 @@
-login
-admin
-create
-Johnathan James
-logout
