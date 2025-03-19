@@ -1,0 +1,5 @@
+login
+admin
+create
+Giannis Antetokounmpo
+logout

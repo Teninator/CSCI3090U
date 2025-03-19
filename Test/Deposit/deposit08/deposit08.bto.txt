@@ -1,0 +1,15 @@
+Welcome to the Banking System.
+Please enter the session type(standard/admin): 
+Please enter the account holder's name: 
+You are now in standard user mode.
+Please enter your transaction: 
+Please enter the account number: 
+Please enter the amount to deposit: 
+Deposited $200.00 in account: 1000.
+Transaction Successful.
+Please enter your transaction: 
+Please enter the account number: 
+Please enter the company name for bill payment: 
+Please enter the amount to transfer: 
+Transaction rejected. Reason: invalid amount.
+Session terminated.

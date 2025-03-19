@@ -1,0 +1,8 @@
+login
+standard
+David D
+deposit
+1000
+logout
+
+
