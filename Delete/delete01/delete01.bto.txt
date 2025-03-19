@@ -1,7 +1,0 @@
-Welcome to the Banking System.
-Please enter the session type(standard/admin): 
-Please enter the account holder's name: 
-You are now in standard user mode.
-Please enter your transaction: 
-Transaction rejected. Reason: You need to be in admin mode.
-Session terminated.
