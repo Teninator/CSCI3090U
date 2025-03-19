@@ -1,0 +1,7 @@
+login
+admin
+withdrawal
+David D
+1000
+10
+logout

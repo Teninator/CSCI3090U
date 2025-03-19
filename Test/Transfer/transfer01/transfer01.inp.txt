@@ -1,0 +1,8 @@
+login
+admin
+transfer
+David D
+1000
+1001
+10
+logout

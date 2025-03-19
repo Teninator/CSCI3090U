@@ -1,0 +1,7 @@
+login
+standard
+David D
+withdrawal
+1000
+10
+logout
