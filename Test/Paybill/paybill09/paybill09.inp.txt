@@ -1,0 +1,10 @@
+login
+admin
+paybill
+David D
+1000
+Credit Card Company Q
+2500
+logout
+
+

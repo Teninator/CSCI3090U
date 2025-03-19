@@ -1,0 +1,4 @@
+login
+standard
+ #empty input
+exit

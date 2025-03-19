@@ -1,0 +1,5 @@
+Welcome to the Banking System.
+Please enter the session type(standard/admin): 
+Please enter the account holder's name: 
+Transaction rejected. Reason: Account holder name is invalid.
+Welcome to the Banking System.

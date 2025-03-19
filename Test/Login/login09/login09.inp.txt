@@ -1,0 +1,4 @@
+login
+standard
+Johnny Alabaster
+exit

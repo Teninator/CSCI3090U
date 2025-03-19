@@ -1,0 +1,3 @@
+Welcome to the Banking System.
+Transaction rejected. Reason: No transaction before login.
+Welcome to the Banking System.
