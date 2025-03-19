@@ -1,7 +1,0 @@
-login
-standard
-David D
-logout
-withdrawal
-1000
-50.00
