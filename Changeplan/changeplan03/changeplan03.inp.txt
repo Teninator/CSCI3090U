@@ -1,6 +1,0 @@
-login
-admin
-changeplan
-David D
-1000
-logout

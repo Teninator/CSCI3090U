@@ -1,5 +1,0 @@
-Welcome to the Banking System.
-Please enter the session type(standard/admin): 
-You are now in admin user mode.
-Please enter your transaction: 
-Session terminated.
