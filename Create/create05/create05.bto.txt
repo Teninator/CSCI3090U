@@ -1,0 +1,8 @@
+Welcome to the Banking System.
+Please enter the session type(standard/admin): 
+You are now in admin user mode.
+Please enter your transaction: 
+Please enter the account holder's name: 
+Please enter the initial balance of the account: 
+Transaction rejected. Reason: initial balance should be between 0 and 99999.99.
+Session terminated.
