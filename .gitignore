@@ -1,0 +1,5 @@
+transactions_*.txt
+*.out.txt
+*.atf.txt
+__pycache__
+.vscode
